@@ -1,4 +1,4 @@
-# SaMT_SS
+# SaMT
 ======= README: Description for R Code =======
 
 This README provides a description of the R code used to produce the numerical studies in the paper:
